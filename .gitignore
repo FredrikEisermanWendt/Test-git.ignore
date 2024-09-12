@@ -38,5 +38,5 @@ out/
 
 
 ### Configuration files ###
-C:\Users\eiser\Dev\Java23\Webservices i Java\Lektion 7\ws_lession_7_optional_hosting\ws_lession_7_optional_hosting\src\main\resources\application.properties
+!/src/main/resources/application.properties
 
